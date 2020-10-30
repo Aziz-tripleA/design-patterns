@@ -1,0 +1,12 @@
+{
+    "name": "aziz/php_xdebug",
+    "require": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "authors": [
+        {
+            "name": "Aziz",
+            "email": "aziz.adel.fci@gmail.com"
+        }
+    ]
+}
